@@ -1,5 +1,38 @@
-## Hi there 👋
+# Hi, I'm Hernan! 🌱
+I'm a web (and sometimes software) developer, specializing in frontend technologies.
 
+## Tech Stack
+
+### Languages
+- HTML
+- CSS
+- SASS
+- Javascript/TypeScript
+- Python
+- Dart
+- Go
+- Java
+
+### Tools and Frameworks
+- Frontend Web Development Frameworks
+  - React
+    - Vite
+    - Next.js
+    - Framer Motion
+  - Angular
+  - Astro
+- Software Development Frameworks 
+  - Flutter
+  - Electron
+- Libraries
+  - Tailwind
+  - ZeroMQ
+- Others
+  - Figma
+
+## Links
+- [Portfolio](https://hernanjugar.com)
+- [LinkedIn](https://www.linkedin.com/in/hernanjugar/)
 <!--
 **hrjugar/hrjugar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
