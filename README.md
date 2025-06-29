@@ -1,5 +1,5 @@
 ## Hi, I'm Hernan! 🌱
-I'm a web (and sometimes software) developer, specializing in frontend technologies.
+I'm a web/software developer.
 
 ### 🖥️ Primary Tech Stack
 | Area | Tools & Technologies |
