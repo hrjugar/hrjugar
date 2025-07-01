@@ -1,5 +1,5 @@
 ## Hi, I'm Hernan! 🌱
-I'm a web/software developer.
+I'm a web and software developer leaning towards UI/UX design, frontend design implementation, database design, and system design in general.
 
 ### 🖥️ Primary Tech Stack
 | Area | Tools & Technologies |
